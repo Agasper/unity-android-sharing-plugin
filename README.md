@@ -4,11 +4,15 @@ Sharing service for Unity games
 
 License: MIT<br>Supports: Unity 4.x - 5.x, Android 4.0.1 - 6.x
 
+![Screenshot](https://raw.githubusercontent.com/Agasper/unity-android-sharing-plugin/master/screen2.png "Screenshot")
+
 ### FAQ
 
 **How to share image ?**
 
-You have to prepare texture for this action like this: http://take.ms/cdZf9
+You have to prepare texture for this action like this: <br>
+![Screenshot](https://raw.githubusercontent.com/Agasper/unity-android-sharing-plugin/master/screen1.png "Screenshot")
+
 Also you must know that not many apps supports image sharing.
 
 **Why do you ask additional permissions  ?**
