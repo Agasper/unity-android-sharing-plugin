@@ -2,8 +2,7 @@ Unity3D Android sharing plugin
 =====
 Sharing service for Unity games
 
-License: MIT
-Supports: Unity 4.x - 5.x, Android 4.0.1 - 6.x
+License: MIT<br>Supports: Unity 4.x - 5.x, Android 4.0.1 - 6.x
 
 ### FAQ
 
