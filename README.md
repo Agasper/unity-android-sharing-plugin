@@ -4,7 +4,7 @@ Sharing service for Unity games
 
 License: MIT<br>Supports: Unity 4.x - 5.x, Android 4.0.1 - 6.x
 
-![Screenshot](https://raw.githubusercontent.com/Agasper/unity-android-sharing-plugin/master/screen2.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/Agasper/unity-android-sharing-plugin/master/screen2.jpg "Screenshot")
 
 ### FAQ
 
