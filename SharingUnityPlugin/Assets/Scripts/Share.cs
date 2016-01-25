@@ -10,7 +10,6 @@ public static class Share
             AndroidJavaClass sharingClass = new AndroidJavaClass("net.agasper.unitysharingplugin.Sharing");
             if (image != null)
             {
-                Debug.Log(sharingClass.CallStatic<string>("GetImagePath"));
                 byte[] bytes = image.EncodeToPNG();
                 File.WriteAllBytes(sharingClass.CallStatic<string>("GetImagePath"), bytes);
             }
